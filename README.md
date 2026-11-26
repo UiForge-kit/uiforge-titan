@@ -67,7 +67,7 @@ Free also applies a few caps, set in `config/limits.ts`: page size, rows shown p
 
 | | Version |
 | --- | --- |
-| Next.js (App Router) | 16.3.0 |
+| Next.js (App Router) | 16.4.6 |
 | React | 19.2.8 |
 | TypeScript | 5.x |
 | Tailwind CSS | 4.x |

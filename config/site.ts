@@ -1,7 +1,7 @@
 export const SITE = {
   name: "Titan",
   shortName: "Titan",
-  tagline: "Template open source de back-office SaaS",
+  tagline: "Template de back-office SaaS",
   description:
     "Dashboard admin Next.js prêt à brancher : clients, utilisateurs, facturation, analytics, support, feature flags, audit et rôles, trois thèmes.",
   repository: "https://github.com/UiForge-kit/uiforge-titan",

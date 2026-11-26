@@ -67,7 +67,7 @@ Le Free applique aussi quelques plafonds, réglés dans `config/limits.ts` : tai
 
 | | Version |
 | --- | --- |
-| Next.js (App Router) | 16.3.0 |
+| Next.js (App Router) | 16.4.6 |
 | React | 19.2.8 |
 | TypeScript | 5.x |
 | Tailwind CSS | 4.x |
